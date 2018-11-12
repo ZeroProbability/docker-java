@@ -7,4 +7,5 @@ su -c 'source "/home/anbu/.sdkman/bin/sdkman-init.sh" && sdk install java 8.0.18
 su -c 'source "/home/anbu/.sdkman/bin/sdkman-init.sh" && sdk install groovy' anbu
 su -c 'source "/home/anbu/.sdkman/bin/sdkman-init.sh" && sdk install kotlin' anbu
 su -c 'source "/home/anbu/.sdkman/bin/sdkman-init.sh" && sdk install gradle' anbu
+su -c 'source "/home/anbu/.sdkman/bin/sdkman-init.sh" && sdk install maven' anbu
 
